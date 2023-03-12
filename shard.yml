@@ -1,0 +1,13 @@
+name: matrix-cr
+version: v0.0.1
+
+authors:
+  - izder456 <izder456@srcerizder.top>
+
+targets:
+  matrix-cr:
+    main: src/matrix-cr.cr
+
+crystal: 1.7.3
+
+license: WTFPL
