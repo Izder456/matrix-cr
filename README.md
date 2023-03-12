@@ -1,22 +1,18 @@
 # matrix-cr
 
-TODO: Write a description here
+CMatrix re-written in [Crystal](https://crystal-lang.org/).
+(VERY WIP)
 
-## Installation
+## Installation/Usage
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+```console
+$ shards build
+$ ./bin/matrix-cr 
+```
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/matrix-cr/fork>)
+1. Fork it (<https://github.com/izder456/matrix-cr/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +20,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [izder456](https://github.com/your-github-user) - creator and maintainer
+- [izder456](https://github.com/izder456) - creator and maintainer
